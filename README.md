@@ -43,7 +43,7 @@
     <table align="center">
         <tr>
             <td><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Assorted Programming Projects</a></td>
-            <td><a href="https://github.com/eust-w/esh">esh</a>Arduino Projects</td>
+            <td><a href="https://github.com/JonathanLacabe/Arduino-Projects">Arduino Projects</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Chatsworth High School Robotics</a></td>
