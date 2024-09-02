@@ -11,11 +11,13 @@
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_DE.md"><span> Deutsch </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_ES.md"><span> Español </span></a>|<!-- (Translated by my father.)-->
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_FR.md"><span> Français </span></a>|
+  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_HI.md"><span> हिन्दी </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_IT.md"><span> Italiano </span></a>|<!-- (Translated by my father.) -->
+  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_KO.md"><span> 한국어 </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_PT.md"><span> Português </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_RU.md"><span> Русский </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_JP.md"><span> 日本語 </span></a>|
-  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_AR.md"><span>عربي </span></a>
+  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_AR.md"><span> عربي </span></a>
 </p>
 <hr>
 
