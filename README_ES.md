@@ -21,10 +21,8 @@
 <hr>
 
 <h4 align="left">"Proyecto de conocimiento humano":</h4>
-    <p align="left"> Corrientemente estoy estudiando varios temas y es mi intención continuar estudiar mientras que haya mas para aprender. Publico mis notas en un sitio de web para tener referencia rápida, y hacerlas accesible a otros. </p>
-
+    <p align="left"> Corrientemente estoy estudiando varios temas y es mi intención continuar estudiar mientras que haya mas para aprender. Publico mis notas en un sitio de web para tener referencia rápida, y hacerlas accesible a otros.</p>
     <p align="left"> Mi intención que éste sitio de web sea una reflexión de mi mente, incorporando mis nota de cada campo de S.T.E.M., para que otros puedan referirse en perpetuidad a una biblioteca que contiene el conocimiento en una forma ya analisada. Es mi intención traducir este sitio de web a muchas lenguas en el futuro próximo (incluyendo la listadas arriba).</p>
-   
     <table align="center">
         <tr>
             <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Fisica</a></td>
