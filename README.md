@@ -61,6 +61,10 @@
             <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Chatsworth High School Robotics</a></td>
             <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Chatsworth Library Robotics</a></td>
         </tr>
+      <tr>
+            <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Human Knowledge</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">LightNote</a></td>
+        </tr>
     </table>
  
 </div>
