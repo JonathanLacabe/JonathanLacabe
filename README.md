@@ -26,7 +26,7 @@
       <!--
     <p align="left">Considering the nature of every specialized field as having a hierarchy of prerequisites, my field being no exception (Quantum Computing requires Quantum Physics, Quantum Physics requires regular Physics and Multivariable Calculus, etc.), the usefulness of a consolidated and easily-accessible knowledge base cannot be overstated. </p>
     -->
-    <p align="left">My goal is to have this website be a reflection of my brain, incorporating my notes from every S.T.E.M. subject, so that I and others can forever refer back onto a library containing knowledge in its most distilled form. I intended to translate the website into multiple languages (including those seen above) in the near future.</p>
+    <p align="left">My goal is to have this website be a reflection of my brain, incorporating my notes from every S.T.E.M. subject, so that I and others can forever refer back onto a library containing knowledge in an elaborated and comprehensive form. I intended to translate the website into multiple languages (including those seen above) in the near future.</p>
     <!-- (Why do you not just use wikipedia or another learning resource when you forget something? Because this website, and all of the notes in them (until I possibly obtain additional contributers), are mine. This is the purpose of note-taking in the first place - they reflect your progress in learning a subject, and symbolize one's intellectual advancement.) -->
      <br>
     <table align="center">
