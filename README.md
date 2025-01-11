@@ -35,7 +35,7 @@
             <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
         </tr>
         <tr>
-            <td align="center">Cryptography<a href="https://jonathanlacabe.github.io/cryptography/cryptography.html"></a></td>
+            <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
             <td align="center">Electrical Engineering<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
         </tr>
         <tr>
