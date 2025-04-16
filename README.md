@@ -24,10 +24,9 @@
 <h4 align="left">"Human Knowledge" Project:</h4>
     <p align="left">I am currently studying several topics and intend to continue studying for as long as there is more to be learned; I publish my notes on a website for ease of reference and to make them available to others.<br>
       <!--
-    <p align="left">Considering the nature of every specialized field as having a hierarchy of prerequisites, my field being no exception (Quantum Computing requires Quantum Physics, Quantum Physics requires regular Physics and Multivariable Calculus, etc.), the usefulness of a consolidated and easily-accessible knowledge base cannot be overstated. </p>
+    <p align="left">Considering the nature of every specialized field as having a hierarchy of prerequisites, my field being no exception (Quantum Computing requires Quantum Physics, Quantum Physics requires freshman Physics and Multivariable Calculus, etc.), the usefulness of a consolidated and easily-accessible knowledge base cannot be overstated. </p>
     -->
-    <p align="left">My goal is to have this website be a reflection of my brain, incorporating my notes from every S.T.E.M. subject, so that I and others can forever refer back onto a library containing knowledge in an elaborated and comprehensive form. I intended to translate the website into multiple languages (including those seen above) in the near future.</p>
-    <!-- (Why do you not just use wikipedia or another learning resource when you forget something? Because this website, and all of the notes in them (until I possibly obtain additional contributers), are mine. This is the purpose of note-taking in the first place - they reflect your progress in learning a subject, and symbolize one's intellectual advancement.) -->
+    <p align="left">My goal is to have this website be a reflection of my brain, incorporating my notes from every S.T.E.M. subject, so that others and I can permanently refer back onto a library containing knowledge in an elaborated and comprehensive form. I intended to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content.</p>
      <br>
     <table align="center">
         <tr>
