@@ -3,7 +3,7 @@
   <p align="center">
         <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" width="402"/></a>
     </p>
-  <h3>...and I am a Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up?view=theater">open-source and free</a>. </h3> 
+  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up?view=theater">open-source and free</a>. </h3> 
   <!-- (My philosophy/motivation for doing this can be found here.)-->
     
 <p align="center">
