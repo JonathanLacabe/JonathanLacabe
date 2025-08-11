@@ -21,31 +21,31 @@
 </p>
 <hr>
 
-    <h4 align="left">"Human Knowledge" Project:</h4>
-    
-    <p align="left">I am currently writing a <ins>free</ins> online textbook called the "<strong>Human Knowledge Project</strong>", meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
-    
-    <p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intended to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content.</p>
+<h4 style="text-align: left;">"Human Knowledge" Project:</h4>
 
-     <br>
-    <table align="center">
-        <tr>
-            <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Physics</a></td>
-            <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomy</a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
-            <td align="center">Aeronautic Engineering<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
-            <td align="center">Nuclear Engineering<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
-        </tr>
-        <tr>
-            <td align="center">Electrical Engineering<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
-            <td align="center">~</td><!-- (Possibly chemistry for the 8th.) -->
-        </tr>
-    </table>
+<p style="text-align: left;">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+
+<p style="text-align: left;">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content.</p>
+
+<br>
+<table style="margin: auto;">
+    <tr>
+        <td style="text-align: center;"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Physics</a></td>
+        <td style="text-align: center;"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomy</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
+        <td style="text-align: center;"><a href="https://jonathanlacabe.github.io/engineering/aeronautics.html">Aeronautic Engineering</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
+        <td style="text-align: center;"><a href="https://jonathanlacabe.github.io/engineering/nuclear.html">Nuclear Engineering</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center;"><a href="https://jonathanlacabe.github.io/engineering/electric.html">Electrical Engineering</a></td>
+        <td style="text-align: center;">~</td>
+    </tr>
+</table>
     
 <hr>
 <h4 align="left">My Open Source Projects</h4>
