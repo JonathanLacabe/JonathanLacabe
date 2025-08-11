@@ -1,15 +1,15 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
   <h2>Hola! Me llamo Jonathan Lacabe...</h2>
   <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" width="402"/></a>
+        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. Ésta es una de mis fotos preferidas de todos los tiempos. Muestra la escultura 'Iapetus' por Jean-Max Albert envuelta por la naturaleza. Es una piesa de arte moderno que fue desiñada para simular la órbita de una de las lunas de Saturno. Siempre pienso de la ciencia como una forma de arte; como un tipo de expresión creativa bajo limites de lógica impuesto por el universo. Así que elijo ésta foto para representar mi filosofía con la cual trabajo en todos mis proyectos, especialmente el HKP." width="402"/></a>
     </p>
-  <h3>...y yo soy un júnior de la secundaria en el sur de California que está estudiando/experimentando con sistemas criptográficos avansados (basada en retículos y post-cuántico) y Física Cuántica/Computación. Es mi intención que todos mis proyectos sean <a href="https://ia802908.us.archive.org/32/items/ManifiestoPorLaGuerrillaDelAccesoAbiertoCopia/Manifiesto%20por%20la%20Guerrilla%20del%20Acceso%20Abierto%20copia_text.pdf"> de acceso libre</a>. </h3> 
-
+    
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_DE.md"><span> Deutsch </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_ES.md"><span> Español </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_FR.md"><span> Français </span></a>|
+  <h3>...y estoy en mi último año de la secundaria en el sur de California, estudiando/experimentando con sistemas criptográficos avansados (retículos y post-cuántico) y Física Cuántica/Computación. Es mi intención que todos mis proyectos sean <a href="https://ia802908.us.archive.org/32/items/ManifiestoPorLaGuerrillaDelAccesoAbiertoCopia/Manifiesto%20por%20la%20Guerrilla%20del%20Acceso%20Abierto%20copia_text.pdf"> de acceso libre</a>. </h3> 
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_HI.md"><span> हिन्दी </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_IT.md"><span> Italiano </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_KO.md"><span> 한국어 </span></a>|
@@ -20,39 +20,47 @@
 </p>
 <hr>
 
-<h4 align="left">"Proyecto de conocimiento humano":</h4>
-    <p align="left"> Corrientemente estoy estudiando varios temas y es mi intención continuar estudiar mientras que haya mas para aprender. Publico mis notas en un sitio de web para tener referencia rápida, y hacerlas accesible a otros.</p>
-    <p align="left"> Mi intención que éste sitio de web sea una reflexión de mi mente, incorporando mis nota de cada campo de S.T.E.M., para que otros puedan referirse en perpetuidad a una biblioteca que contiene el conocimiento en una forma ya analisada. Es mi intención traducir este sitio de web a muchas lenguas en el futuro próximo (incluyendo la listadas arriba).</p>
-    <table align="center">
-        <tr>
-            <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Fisica</a></td>
-            <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Matématicas</a></td>
-        </tr>
-        <tr>
-            <td align="center">Criptografía<a href="https://jonathanlacabe.github.io/cryptography/cryptography.html"></a></td>
-            <td align="center">Igeniería Eléctrica<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomía</a></td>
-            <td align="center">Igenieria Aeronáutica<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
-        </tr>
-        <tr>
-            <td align="center">Igeniería Nuclear<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
-          <td align="center">~</td>
-        </tr>
-    </table>
+<h4 align="left">Human Knowledge Project:</h4>
+
+<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+
+<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+
+<br>
+<table style="margin: auto;">
+    <tr>
+        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Physics</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomy</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
+        <td align="center">Aeronautic Engineering<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
+        <td align="center">Nuclear Engineering<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
+    </tr>
+    <tr>
+        <td align="center">Electrical Engineering<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
+        <td align="center">~</td>
+    </tr>
+</table>
     
 <hr>
-<h4 align="left">Mis projectos de acceso libre</h4>
-    <p align="left">Additionalmente, he creado varios proyectos este verano de informática e ingeniería eléctrica:</p>
+<h4 align="left">My Open Source Projects</h4>
+    <p align="left">Additionally, I have created several projects in computer science and electrical engineering:</p>
     <table align="center">
         <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Proyectos de programación varios</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Proyectos de Arduino</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Assorted Programming Projects</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Arduino Projects</a></td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Robotica de Chatsworth High School</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Robotica de la Biblioteca de Chatsworth</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Chatsworth High School Robotics</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Chatsworth Library Robotics</a></td>
+        </tr>
+      <tr>
+            <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Human Knowledge</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">LightNote</a></td>
         </tr>
     </table>
  
