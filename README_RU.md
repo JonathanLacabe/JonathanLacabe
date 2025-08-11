@@ -1,7 +1,7 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
   <h2>Hello! My name is Jonathan Lacabe...</h2>
   <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" width="402"/></a>
+        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons." width="402"/></a>
     </p>
   <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up?view=theater">open-source and free</a>. </h3> 
     
