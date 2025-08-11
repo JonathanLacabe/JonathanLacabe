@@ -4,6 +4,8 @@
         <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. Ésta es una de mis fotos preferidas de todos los tiempos. Muestra la escultura 'Iapetus' por Jean-Max Albert envuelta por la naturaleza. Es una piesa de arte moderno que fue desiñada para simular la órbita de una de las lunas de Saturno. Siempre pienso de la ciencia como una forma de arte; como un tipo de expresión creativa bajo limites de lógica impuesto por el universo. Así que elijo ésta foto para representar mi filosofía con la cual trabajo en todos mis proyectos, especialmente el HKP." width="402"/></a>
     </p>
     
+<h3>...y estoy en mi último año de la secundaria en el sur de California, estudiando/experimentando con sistemas criptográficos avansados (retículos y post-cuántico) y Física Cuántica/Computación. Es mi intención que todos mis proyectos sean <a href="https://ia802908.us.archive.org/32/items/ManifiestoPorLaGuerrillaDelAccesoAbiertoCopia/Manifiesto%20por%20la%20Guerrilla%20del%20Acceso%20Abierto%20copia_text.pdf"> de acceso libre</a>. </h3> 
+
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_DE.md"><span> Deutsch </span></a>|
@@ -19,7 +21,6 @@
 </p>
 <hr>
 
-<h3>...y estoy en mi último año de la secundaria en el sur de California, estudiando/experimentando con sistemas criptográficos avansados (retículos y post-cuántico) y Física Cuántica/Computación. Es mi intención que todos mis proyectos sean <a href="https://ia802908.us.archive.org/32/items/ManifiestoPorLaGuerrillaDelAccesoAbiertoCopia/Manifiesto%20por%20la%20Guerrilla%20del%20Acceso%20Abierto%20copia_text.pdf"> de acceso libre</a>. </h3> 
 <h4 align="left">Human Knowledge Project:</h4>
 
 <p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
