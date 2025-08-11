@@ -1,9 +1,9 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
+  <h2>Здравствуйте! Меня зовут Джонатан Лакаб...</h2>
   <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
+        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Япет, 1985 год. Одна из моих любимых фотографий всех времён: она показывает скульптуру «Япет» Жана-Макса Альбера, вмонтированную в природу. Это произведение современного искусства было создано так, чтобы имитировать орбиту одного из спутников Сатурна. Я всегда считал науку формой искусства, своеобразным творческим выражением в рамках логических ограничений, наложенных Вселенной, поэтому выбрал эту фотографию, чтобы она отражала философию, с которой я работаю над всеми своими проектами, особенно над HKP." width="402"/></a>
     </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up?view=theater">open-source and free</a>. </h3> 
+  <h3>...и я — старшеклассник на юге Калифорнии, изучающий и экспериментирующий с передовыми криптографическими системами (постквантовыми и гомоморфными), а также с квантовой физикой и вычислениями. Я намерен делать каждый проект, над которым работаю, <a href="https://archive.org/details/GuerillaOpenAccessManifesto/mode/2up?view=theater">открытым и бесплатным</a>. </h3> 
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
