@@ -35,14 +35,14 @@
     </tr>
     <tr>
         <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
-        <td align="center"><a href="https://jonathanlacabe.github.io/engineering/aeronautics.html">Aeronautic Engineering</a></td>
+        <td align="center">Aeronautic Engineering<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
     </tr>
     <tr>
         <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
-        <td align="center"><a href="https://jonathanlacabe.github.io/engineering/nuclear.html">Nuclear Engineering</a></td>
+        <td align="center">Nuclear Engineering<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/engineering/electric.html">Electrical Engineering</a></td>
+        <td align="center">Electrical Engineering<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
         <td align="center">~</td>
     </tr>
 </table>
