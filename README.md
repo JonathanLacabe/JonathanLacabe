@@ -21,12 +21,11 @@
 </p>
 <hr>
 
-<h4 align="left">"Human Knowledge" Project:</h4>
-    <p align="left">I am currently studying several topics and intend to continue studying for as long as there is more to be learned; I publish my notes on a website for ease of reference and to make them available to others.<br>
-      <!--
-    <p align="left">Considering the nature of every specialized field as having a hierarchy of prerequisites, my field being no exception (Quantum Computing requires Quantum Physics, Quantum Physics requires freshman Physics and Multivariable Calculus, etc.), the usefulness of a consolidated and easily-accessible knowledge base cannot be overstated. </p>
-    -->
-    <p align="left">My goal is to have this website be a reflection of my brain, incorporating my notes from every S.T.E.M. subject, so that others and I can permanently refer back onto a library containing knowledge in an elaborated and comprehensive form. I intended to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content.</p>
+    <h4 align="left">"Human Knowledge" Project:</h4>
+    
+    <p align="left">I am currently writing a <u>free</u> online textbook called the "<strong>Human Knowledge Project</strong>", meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.<br>
+    <p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intended to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content.</p>
+
      <br>
     <table align="center">
         <tr>
