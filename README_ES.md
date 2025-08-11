@@ -9,7 +9,6 @@
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_DE.md"><span> Deutsch </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_ES.md"><span> Español </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_FR.md"><span> Français </span></a>|
-  <h3>...y estoy en mi último año de la secundaria en el sur de California, estudiando/experimentando con sistemas criptográficos avansados (retículos y post-cuántico) y Física Cuántica/Computación. Es mi intención que todos mis proyectos sean <a href="https://ia802908.us.archive.org/32/items/ManifiestoPorLaGuerrillaDelAccesoAbiertoCopia/Manifiesto%20por%20la%20Guerrilla%20del%20Acceso%20Abierto%20copia_text.pdf"> de acceso libre</a>. </h3> 
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_HI.md"><span> हिन्दी </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_IT.md"><span> Italiano </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_KO.md"><span> 한국어 </span></a>|
@@ -20,6 +19,7 @@
 </p>
 <hr>
 
+<h3>...y estoy en mi último año de la secundaria en el sur de California, estudiando/experimentando con sistemas criptográficos avansados (retículos y post-cuántico) y Física Cuántica/Computación. Es mi intención que todos mis proyectos sean <a href="https://ia802908.us.archive.org/32/items/ManifiestoPorLaGuerrillaDelAccesoAbiertoCopia/Manifiesto%20por%20la%20Guerrilla%20del%20Acceso%20Abierto%20copia_text.pdf"> de acceso libre</a>. </h3> 
 <h4 align="left">Human Knowledge Project:</h4>
 
 <p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
