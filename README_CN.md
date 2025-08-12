@@ -1,10 +1,10 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
+  <h2>你好！我的名字是乔纳森·拉卡布...</h2>
   <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
+        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="伊阿珀托斯，1985年。这是我最喜欢的照片之一，画面中展现了让-马克斯·阿尔贝创作的雕塑《伊阿珀托斯》与自然融为一体。它是一件旨在模拟土星某颗卫星轨道的现代艺术作品。我一直认为科学是一种艺术形式，是在宇宙所施加的逻辑限制下进行的创造性表达。因此，我选择了这张照片来代表我在所有项目中所秉持的理念，尤其是在“人类知识计划”（HKP）中。" width="402"/></a>
     </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://openaccessmanifesto.wordpress.com/%e6%b8%b8%e5%87%bb%e9%98%9f%e5%bc%80%e6%94%be%e8%ae%bf%e9%97%ae%e5%ae%a3%e8%a8%80/">open-source and free</a>. </h3>
-    
+  <h3>……我是一名来自南加州的高中毕业班学生，正在学习和研究先进的密码系统（后量子与同态加密）以及量子物理与量子计算。我打算将自己参与的每一个项目都<a href="https://openaccessmanifesto.wordpress.com/%e6%b8%b8%e5%87%bb%e9%98%9f%e5%bc%80%e6%94%be%e8%ae%bf%e9%97%ae%e5%ae%a3%e8%a8%80/">开源并免费发布</a>。</h3>
+
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_DE.md"><span> Deutsch </span></a>|
