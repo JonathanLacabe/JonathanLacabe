@@ -1,9 +1,11 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
-  <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
-    </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://web.archive.org/web/20250402171014if_/https://www.markupdancing.net/archive/20240112-141400.html">open-source and free</a>. </h3>
+  <h2>こんにちは！私の名前はジョナサン・ラカベです…</h2>
+<p align="center">
+  <a href="https://jonathanlacabe.github.io/">
+    <img src="/Iapetus_1985.jpg" alt="イアペトゥス、1985年。私のお気に入りの写真の一つで、ジャン＝マックス・アルベールによる自然に溶け込む彫刻「イアペトゥス」を写しています。これは土星の衛星の軌道を模倣するようにデザインされた現代アート作品です。私は科学を宇宙によって課せられた論理的制約のもとでの創造的表現、すなわち一種の芸術だと考えており、この写真を特にHKPを含むすべてのプロジェクトにおける私の哲学を表すものとして選びました。" width="402"/>
+  </a>
+</p>
+<h3>…そして私は南カリフォルニアの高校最終学年生で、先進的な暗号システム（ポスト量子＆準同型）や量子物理学・量子計算の研究・実験をしています。私は関わるすべてのプロジェクトを<a href="https://web.archive.org/web/20250402171014if_/https://www.markupdancing.net/archive/20240112-141400.html">オープンソースかつ無料</a>にするつもりです。</h3>
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
