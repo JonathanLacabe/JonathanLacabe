@@ -22,11 +22,11 @@
 </p>
 <hr>
 
-<h4 align="left">Human Knowledge Project:</h4>
+<h4 align="left">ヒューマンナレッジプロジェクト：</h4>
 
-<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+<p align="left">私は現在、<ins>無料</ins>のオンライン教科書<strong>ヒューマンナレッジプロジェクト</strong>を執筆中で、物理学、数学、暗号学などのSTEM分野をよりアクセスしやすくすることを目的としています。この教材はSTEMの初心者から経験者まで幅広く役立つリソースとなり、一通り読む教科書としても、Ctrl+F検索用のリファレンスツールとしても活用できるように設計しています。</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">このプロジェクトは、知識を最も便利な形で提供することを目標にしています。すなわち、興味深く、アクセスしやすく、広範囲で詳細にわたる内容で、難しい科目の学習が怖くて近寄りにくいものではなくなるようにしています。近い将来、このウェブサイトを複数の言語（上記の言語を含む）に翻訳し、さらに内容のアクセスしやすさを高める予定です。なお、以下のページは英語で書かれています。</p>
 
 <br>
 <table style="margin: auto;">
