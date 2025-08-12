@@ -7,7 +7,6 @@
   <!-- (My philosophy/motivation for doing this can be found here.)-->
     
 <p align="center">
-  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_AR.md"><span> عربي </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_DE.md"><span> Deutsch </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_ES.md"><span> Español </span></a>|<!--Translated by my father.-->
@@ -21,7 +20,8 @@
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_RU.md"><span> Русский </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_TR.md"><span> Türkçe	 </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_UR.md"><span> اُردُو </span></a>|
-  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_VI.md"><span> Tiếng Việt </span></a>
+  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_VI.md"><span> Tiếng Việt </span></a>|
+  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_AR.md"><span> عربي </span></a>
 </p>
 <hr>
 
