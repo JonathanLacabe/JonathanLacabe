@@ -1,9 +1,9 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
-  <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
-    </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://in.okfn.org/files/2013/07/Aron-Swartz-Hindi.pdf">open-source and free</a>. </h3>
+  <h2>नमस्ते! मेरा नाम जोनाथन लाक़ाबे है...</h2>
+<p align="center">
+    <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985। मेरे सभी समय की पसंदीदा तस्वीरों में से एक, यह चित्र है 'Iapetus' नामक मूर्ति का जो जीन-मैक्स अल्बर्ट द्वारा प्रकृति में स्थापित किया गया है। यह आधुनिक कला का एक हिस्सा है जिसे शनि के एक चंद्रमा की कक्षा की नकल करने के लिए डिजाइन किया गया था। मैंने हमेशा विज्ञान को कला के रूप में देखा है, जैसे ब्रह्मांड द्वारा लगाए गए तार्किक प्रतिबंधों के तहत एक रचनात्मक अभिव्यक्ति के रूप में, इसलिए मैंने इस फोटो को चुना है जो मेरी सभी परियोजनाओं, विशेष रूप से HKP, के साथ मेरे दर्शन का प्रतिनिधित्व करता है।" width="402"/></a>
+</p>
+<h3>...और मैं दक्षिण कैलिफ़ोर्निया का एक हाई स्कूल सीनियर हूँ, जो उन्नत क्रिप्टोग्राफिक सिस्टम (पोस्ट-क्वांटम और होमोमॉर्फिक) और क्वांटम फिजिक्स/कंप्यूटिंग का अध्ययन/प्रयोग कर रहा हूँ। मैं हर परियोजना को जिसे मैं काम करता हूँ <a href="https://in.okfn.org/files/2013/07/Aron-Swartz-Hindi.pdf">ओपन-सोर्स और मुफ्त</a> बनाने का इरादा रखता हूँ। </h3>
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
