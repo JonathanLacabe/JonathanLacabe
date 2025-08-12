@@ -33,39 +33,39 @@
 <br>
 <table style="margin: auto;">
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Physics</a></td>
-        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomy</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Vật lý</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Thiên văn học</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
-        <td align="center">Aeronautic Engineering<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Toán học</a></td>
+        <td align="center">Kỹ thuật Hàng không<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
-        <td align="center">Nuclear Engineering<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Mật mã học</a></td>
+        <td align="center">Kỹ thuật Hạt nhân<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
     </tr>
     <tr>
-        <td align="center">Electrical Engineering<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
+        <td align="center">Kỹ thuật Điện<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
         <td align="center">~</td>
     </tr>
 </table>
-    
+
 <hr>
-<h4 align="left">My Open Source Projects</h4>
-    <p align="left">Additionally, I have created several projects in computer science and electrical engineering:</p>
-    <table align="center">
-        <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Assorted Programming Projects</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Arduino Projects</a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Chatsworth High School Robotics</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Chatsworth Library Robotics</a></td>
-        </tr>
-      <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Human Knowledge</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">LightNote</a></td>
-        </tr>
-    </table>
+<h4 align="left">Các dự án mã nguồn mở của tôi</h4>
+<p align="left">Ngoài ra, tôi đã tạo ra một số dự án trong lĩnh vực khoa học máy tính và kỹ thuật điện:</p>
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Các dự án lập trình đa dạng</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Dự án Arduino</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Robotics trường Trung học Chatsworth</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Robotics thư viện Chatsworth</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Human Knowledge</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">LightNote</a></td>
+    </tr>
+</table>
  
 </div>
