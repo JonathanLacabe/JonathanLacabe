@@ -29,39 +29,39 @@
 <br>
 <table style="margin: auto;">
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Physics</a></td>
-        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomy</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Fisica</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomia</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
-        <td align="center">Aeronautic Engineering<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Matematica</a></td>
+        <td align="center">Ingegneria Aeronautica<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
-        <td align="center">Nuclear Engineering<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Crittografia</a></td>
+        <td align="center">Ingegneria Nucleare<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
     </tr>
     <tr>
-        <td align="center">Electrical Engineering<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
+        <td align="center">Ingegneria Elettrica<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
         <td align="center">~</td>
     </tr>
 </table>
-    
+
 <hr>
-<h4 align="left">My Open Source Projects</h4>
-    <p align="left">Additionally, I have created several projects in computer science and electrical engineering:</p>
-    <table align="center">
-        <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Assorted Programming Projects</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Arduino Projects</a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Chatsworth High School Robotics</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Chatsworth Library Robotics</a></td>
-        </tr>
-      <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Human Knowledge</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">LightNote</a></td>
-        </tr>
-    </table>
+<h4 align="left">I miei progetti open source</h4>
+<p align="left">Inoltre, ho creato diversi progetti nel campo dell'informatica e dell'ingegneria elettrica:</p>
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Progetti di programmazione assortiti</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Progetti Arduino</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Robotica del liceo Chatsworth</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Robotica della biblioteca di Chatsworth</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Conoscenza Umana</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">LightNote</a></td>
+    </tr>
+</table>
  
 </div>
