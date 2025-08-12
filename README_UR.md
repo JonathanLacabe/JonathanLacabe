@@ -1,10 +1,9 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
-  <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
-    </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://openaccessmanifesto-wordpress-com.translate.goog/guerilla-open-access-manifesto/?_x_tr_sl=en&_x_tr_tl=ur&_x_tr_hl=en&_x_tr_pto=wapp">open-source and free</a>. </h3> 
-  <!-- (My philosophy/motivation for doing this can be found here.)-->
+  <h2>ہیلو! میرا نام جوناتھن لیکابی ہے...</h2>
+<p align="center">
+    <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="ایپیٹوس، 1985۔ میری پسندیدہ تصاویر میں سے ایک، اس میں جان-میکس البرٹ کی مجسمہ 'ایپیٹوس' کو فطرت میں نصب دکھایا گیا ہے۔ یہ جدید فن کا ایک ٹکڑا ہے جو زحل کے ایک چاند کے مدار کی نقل کرنے کے لیے ڈیزائن کیا گیا تھا۔ میں نے ہمیشہ سائنس کو فن کی ایک شکل کے طور پر دیکھا ہے، جیسے کائنات کی جانب سے عائد منطقی پابندیوں کے تحت تخلیقی اظہار۔ اسی فلسفے کی نمائندگی کے لیے میں نے یہ تصویر منتخب کی ہے، خاص طور پر ایچ کے پی پروجیکٹ میں۔" width="402"/></a>
+</p>
+<h3>...اور میں جنوبی کیلیفورنیا میں ایک ہائی اسکول سینئر ہوں جو جدید کرپٹوگرافک نظامات (پوسٹ-کوانٹم اور ہومومورفک) اور کوانٹم فزکس/کمپیوٹنگ کا مطالعہ اور تجربہ کر رہا ہوں۔ میرا ارادہ ہے کہ میں جو بھی پروجیکٹ کروں وہ <a href="https://openaccessmanifesto-wordpress-com.translate.goog/guerilla-open-access-manifesto/?_x_tr_sl=en&_x_tr_tl=ur&_x_tr_hl=en&_x_tr_pto=wapp">اوپن سورس اور مفت</a> ہو۔</h3>
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
