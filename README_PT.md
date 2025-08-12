@@ -1,9 +1,9 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
+  <h2>Olá! Meu nome é Jonathan Lacabe...</h2>
   <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
+        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. Uma das minhas fotos favoritas de todos os tempos, mostra a escultura 'Iapetus' de Jean-Max Albert integrada na natureza. É uma obra de arte moderna projetada para imitar a órbita de uma das luas de Saturno. Sempre pensei na ciência como uma forma de arte, uma espécie de expressão criativa sob restrições lógicas impostas pelo universo, então escolhi essa foto para representar a filosofia com que trabalho em todos os meus projetos, especialmente o HKP." width="402"/></a>
     </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://openaccessmanifesto.wordpress.com/manifesto-da-guerrilha-pelo-acesso-aberto/">open-source and free</a>. </h3>
+  <h3>...e sou um aluno do último ano do ensino médio no sul da Califórnia que estuda/experimenta Sistemas Criptográficos avançados (pós-quânticos e homomórficos) e Física/Computação Quântica. Pretendo tornar todos os projetos em que trabalho <a href="https://openaccessmanifesto.wordpress.com/manifesto-da-guerrilha-pelo-acesso-aberto/">open-source e gratuitos</a>. </h3>
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
