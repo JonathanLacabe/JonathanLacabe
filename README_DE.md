@@ -20,7 +20,7 @@
 </p>
 <hr>
 
-<h4 align="left">Human Knowledge Project:</h4>
+<h4 align="left">Projekt „Wissen der Menschheit“:</h4>
 
 <p align="left">Ich schreibe derzeit ein <ins>kostenloses</ins> Online-Lehrbuch mit dem Titel <strong>Human Knowledge Project</strong>, das dazu gedacht ist, Themen aus dem MINT-Bereich wie Physik, Mathematik und Kryptografie leichter zugänglich zu machen. Es soll sowohl für Anfänger als auch für Fortgeschrittene im MINT-Bereich eine nützliche Ressource sein – einerseits als durchgehendes Lehrbuch, andererseits als Nachschlagewerk, das man per Strg+F durchsuchen kann.</p>
 
