@@ -20,11 +20,11 @@
 </p>
 <hr>
 
-<h4 align="left">Human Knowledge Project:</h4>
+<h4 align="left">ह्यूमन नॉलेज प्रोजेक्ट:</h4>
 
-<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+<p align="left">मैं वर्तमान में एक <ins>मुफ्त</ins> ऑनलाइन पाठ्यपुस्तक लिख रहा हूँ जिसका नाम <strong>ह्यूमन नॉलेज प्रोजेक्ट</strong> है, जिसका उद्देश्य भौतिकी, गणित, और क्रिप्टोग्राफी जैसे STEM विषयों को अधिक सुलभ बनाना है। मैं इसे STEM के शुरुआती और अनुभवी दोनों के लिए एक उपयोगी संसाधन बनाना चाहता हूँ, जो न केवल सीधे पढ़ने वाली पाठ्यपुस्तक के रूप में काम करे बल्कि Ctrl-F के ज़रिए संदर्भ खोजने का टूल भी हो।</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">मैंने इस प्रोजेक्ट को इस लक्ष्य के साथ डिजाइन किया है कि ज्ञान को सबसे सुविधाजनक रूप में प्रस्तुत किया जाए: रोचक, सुलभ, व्यापक और विस्तृत — ये सभी बातें कठिन विषयों को डरावना या अप्राप्य नहीं बनने देतीं। मैं निकट भविष्य में वेबसाइट को कई भाषाओं में अनुवादित करने का इरादा रखता हूँ (जिनमें ऊपर दी गई भाषाएँ भी शामिल हैं) ताकि इसकी सामग्री और भी अधिक लोगों तक पहुँच सके; कृपया ध्यान दें कि नीचे दी गई पृष्ठ अंग्रेज़ी में हैं।</p>
 
 <br>
 <table style="margin: auto;">
