@@ -24,11 +24,11 @@
 </p>
 <hr>
 
-<h4 align="left">Human Knowledge Project:</h4>
+<h4 align="left">Մարդկային Գիտելիքների Նախագիծ՝</h4>
 
-<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+<p align="left">Ես ներկայումս գրում եմ <ins>անվճար</ins> օնլայն դասագիրք, որը կոչվում է <strong>Մարդկային Գիտելիքների Նախագիծ</strong>, որի նպատակն է դարձնել STEM առարկաները, ինչպիսիք են ֆիզիկան, մաթեմատիկան և կրիպտոգրաֆիան, ավելի հասանելի։ Ես մտադիր եմ, որ սա օգտակար աղբյուր լինի ինչպես սկսնակների, այնպես էլ STEM-ում ավելի փորձառու մարդկանց համար՝ ծառայելով և՛ որպես անխափան դասագիրք, և՛ որպես ctrl-f որոնման հարմարելի գործիք։</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">Ես նախագծել եմ այս նախագիծը՝ նպատակ ունենալով ներկայացնել գիտելիքը առավել հարմար ձևով՝ հետաքրքիր, հասանելի, մանրակրկիտ և ընդարձակ, այն բոլոր հատկանիշներով, որոնք դժվար առարկաները սովորելը դարձնում են ոչ այնքան վախեցնող և անհասանելի։ Ես մտադիր եմ առաջիկայում կայքը թարգմանել մի քանի լեզուներով (ներառյալ վերևի նշվածները)՝ նպաստելու նրա ավելի լայն հասանելիությանը։ Նշենք, որ ներքև ներկայացված էջերը անգլերեն են։</p>
 
 <br>
 <table style="margin: auto;">
