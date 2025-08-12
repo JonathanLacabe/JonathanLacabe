@@ -31,39 +31,39 @@
 <br>
 <table style="margin: auto;">
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Physics</a></td>
-        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomy</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">물리학</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">천문학</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
-        <td align="center">Aeronautic Engineering<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">수학</a></td>
+        <td align="center">항공공학<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
-        <td align="center">Nuclear Engineering<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">암호학</a></td>
+        <td align="center">핵공학<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
     </tr>
     <tr>
-        <td align="center">Electrical Engineering<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
+        <td align="center">전기공학<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
         <td align="center">~</td>
     </tr>
 </table>
-    
+
 <hr>
-<h4 align="left">My Open Source Projects</h4>
-    <p align="left">Additionally, I have created several projects in computer science and electrical engineering:</p>
-    <table align="center">
-        <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Assorted Programming Projects</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Arduino Projects</a></td>
-        </tr>
-        <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Chatsworth High School Robotics</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Chatsworth Library Robotics</a></td>
-        </tr>
-      <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Human Knowledge</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">LightNote</a></td>
-        </tr>
-    </table>
+<h4 align="left">나의 오픈 소스 프로젝트</h4>
+<p align="left">추가로, 저는 컴퓨터 과학과 전기공학 분야에서 여러 프로젝트를 진행했습니다:</p>
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">다양한 프로그래밍 프로젝트</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">아두이노 프로젝트</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">챗스워스 고등학교 로봇 공학</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">챗스워스 도서관 로봇 공학</a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">휴먼 지식 프로젝트</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">라이트노트</a></td>
+    </tr>
+</table>
  
 </div>
