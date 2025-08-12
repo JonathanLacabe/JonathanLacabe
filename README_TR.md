@@ -1,10 +1,9 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
+  <h2>Merhaba! Benim adım Jonathan Lacabe...</h2>
   <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
+        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. Şimdiye kadar en sevdiğim fotoğraflardan biri, doğaya gömülü Jean-Max Albert'in 'Iapetus' heykelini gösteriyor. Bu, Satürn'ün uydularından birinin yörüngesini taklit etmek üzere tasarlanmış modern bir sanat eseridir. Bilimi her zaman, evrenin dayattığı mantıksal kısıtlamalar altında yaratıcı bir ifade biçimi, bir tür sanat olarak düşündüm, bu yüzden bu fotoğrafı, özellikle HKP projelerimde kullandığım felsefeyi temsil etmesi için seçtim." width="402"/></a>
     </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://openaccessmanifesto.wordpress.com/gerilla-acik-erisim-manifestosu/">open-source and free</a>. </h3> 
-  <!-- (My philosophy/motivation for doing this can be found here.)-->
+  <h3>...ve ben Güney Kaliforniya'da lise son sınıf öğrencisiyim. İleri Kriptografik Sistemler (post-kuantum ve homomorfik) ve Kuantum Fizik/Bilgisayar alanlarında çalışıyor ve deney yapıyorum. Üzerinde çalıştığım her projeyi <a href="https://openaccessmanifesto.wordpress.com/gerilla-acik-erisim-manifestosu/">açık kaynaklı ve ücretsiz</a> yapmayı amaçlıyorum.</h3>
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
