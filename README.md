@@ -17,8 +17,8 @@
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_PT.md"><span> Português </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_RU.md"><span> Русский </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_JP.md"><span> 日本語 </span></a>|
-  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_AR.md"><span> عربي </span></a>
-  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_UR.md"><span> اُردُو </span></a>
+  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_AR.md"><span> عربي </span></a>|
+  <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_UR.md"><span> اُردُو </span></a>|
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_VI.md"><span> Tiếng Việt </span></a>
 </p>
 <hr>
