@@ -1,9 +1,9 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
-  <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
-    </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://openaccessmanifesto-wordpress-com.translate.goog/guerilla-open-access-manifesto/?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp">open-source and free</a>. </h3> 
+  <h2>Xin chào! Tôi tên là Jonathan Lacabe...</h2>
+<p align="center">
+    <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. Một trong những bức ảnh yêu thích nhất của tôi, nó thể hiện tác phẩm điêu khắc 'Iapetus' của Jean-Max Albert được đặt giữa thiên nhiên. Đây là một tác phẩm nghệ thuật hiện đại được thiết kế để mô phỏng quỹ đạo của một trong các vệ tinh của sao Thổ. Tôi luôn xem khoa học như một hình thức nghệ thuật, một dạng biểu hiện sáng tạo dưới những giới hạn logic do vũ trụ áp đặt, vì vậy tôi chọn bức ảnh này để đại diện cho triết lý mà tôi áp dụng trong tất cả các dự án của mình, đặc biệt là HKP." width="402"/></a>
+</p>
+<h3>...và tôi là học sinh cuối cấp trung học ở Nam California, đang nghiên cứu và thử nghiệm các Hệ thống Mật mã tiên tiến (hậu lượng tử & đồng hình) cùng với Vật lý/Lập trình Lượng tử. Tôi dự định làm mọi dự án mình thực hiện đều <a href="https://openaccessmanifesto-wordpress-com.translate.goog/guerilla-open-access-manifesto/?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=en&_x_tr_pto=wapp">mã nguồn mở và miễn phí</a>.</h3> 
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
