@@ -20,11 +20,11 @@
 </p>
 <hr>
 
-<h4 align="left">Human Knowledge Project:</h4>
+<h4 align="left">人类知识计划：</h4>
 
-<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+<p align="left">我目前正在编写一本<ins>免费的</ins>在线教材，名为<strong>人类知识计划</strong>，旨在让物理、数学和密码学等 STEM 领域的主题更易于理解与获取。我希望它能成为一个对 STEM 初学者和有经验的人都实用的资源，既可以作为一本从头到尾阅读的教材，也可以作为用 Ctrl+F 快速查找的参考工具。</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">我设计这个项目的目标是以最方便的形式呈现知识：有趣、易懂、内容广泛且细节丰富——这些因素都能让学习难度较大的学科不再显得那么令人畏惧、难以接近。我计划在不久的将来将本网站翻译成多种语言（包括上面列出的那些），以进一步提高其可访问性；请注意，下方的页面是英文的。</p>
 
 <br>
 <table style="margin: auto;">
