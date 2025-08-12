@@ -24,11 +24,11 @@
 </p>
 <hr>
 
-<h4 align="left">Human Knowledge Project:</h4>
+<h4 align="left">Dự Án Kiến Thức Con Người:</h4>
 
-<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+<p align="left">Tôi hiện đang viết một cuốn sách giáo khoa trực tuyến <ins>miễn phí</ins> mang tên <strong>Dự Án Kiến Thức Con Người</strong>, nhằm giúp cho các chủ đề STEM như Vật lý, Toán học và Mật mã học trở nên dễ tiếp cận hơn. Tôi mong muốn đây sẽ là một tài nguyên hữu ích cho cả những người mới bắt đầu và những người đã có kinh nghiệm trong STEM, phục vụ vừa như một cuốn sách giáo khoa đọc liền mạch, vừa như một công cụ tham khảo nhanh qua chức năng ctrl-f.</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">Tôi thiết kế dự án với mục tiêu trình bày kiến thức ở hình thức thuận tiện nhất: Thú vị, Dễ tiếp cận, Toàn diện và Chi tiết — tất cả những yếu tố giúp việc học các môn khó trở nên không còn đáng sợ hay khó tiếp cận. Tôi dự định sẽ dịch trang web này sang nhiều ngôn ngữ khác nhau (bao gồm cả những ngôn ngữ đã đề cập ở trên) trong tương lai gần nhằm tăng khả năng tiếp cận nội dung; lưu ý rằng các trang bên dưới đang là tiếng Anh.</p>
 
 <br>
 <table style="margin: auto;">
@@ -63,7 +63,7 @@
         <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Robotics thư viện Chatsworth</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Human Knowledge</a></td>
+        <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Dự Án Kiến Thức Con Người</a></td>
         <td align="center"><a href="https://github.com/JonathanLacabe/LightNote">LightNote</a></td>
     </tr>
 </table>
