@@ -1,9 +1,9 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
+  <h2>Ciao! Mi chiamo Jonathan Lacabe...</h2>
   <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
+        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. Una delle mie foto preferite in assoluto, mostra la scultura 'Iapetus' di Jean-Max Albert inserita nella natura. È un’opera d’arte moderna progettata per imitare l’orbita di una delle lune di Saturno. Ho sempre considerato la scienza come una forma d’arte, una sorta di espressione creativa soggetta alle restrizioni logiche imposte dall’universo, quindi ho scelto questa foto per rappresentare la filosofia con cui lavoro a tutti i miei progetti, specialmente l’HKP." width="402"/></a>
     </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://openaccessmanifesto.wordpress.com/manifesto-per-la-resistenza-open-access/">open-source and free</a>. </h3>
+  <h3>...e sono uno studente dell’ultimo anno di liceo nel Sud della California che studia e sperimenta sistemi crittografici avanzati (post-quantistici e omomorfici) e fisica/informatica quantistica. Ho intenzione di rendere ogni progetto a cui lavoro <a href="https://openaccessmanifesto.wordpress.com/manifesto-per-la-resistenza-open-access/">open-source e gratuito</a>.</h3>
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
