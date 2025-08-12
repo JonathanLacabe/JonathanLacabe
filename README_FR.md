@@ -20,11 +20,11 @@
 </p>
 <hr>
 
-<h4 align="left">Human Knowledge Project:</h4>
+<h4 align="left">Projet « Connaissance Humaine » :</h4>
 
-<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+<p align="left">Je suis actuellement en train d’écrire un manuel en ligne <ins>gratuit</ins> intitulé le <strong>Projet « Connaissance Humaine »</strong>, destiné à rendre les disciplines STEM — comme la physique, les mathématiques et la cryptographie — plus accessibles. J’ai pour objectif qu’il soit une ressource utile aussi bien pour les débutants que pour les personnes déjà expérimentées dans ces domaines, servant à la fois de manuel que l’on peut lire de bout en bout et d’outil de recherche rapide via « ctrl-f ».</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">J’ai conçu ce projet dans le but de présenter le savoir sous sa forme la plus pratique : intéressant, accessible, vaste et détaillé — autant de qualités qui permettent de rendre l’apprentissage de matières difficiles moins intimidant et plus abordable. J’ai l’intention de traduire le site dans plusieurs langues (y compris celles mentionnées ci-dessus) dans un avenir proche afin d’en accroître encore l’accessibilité. Veuillez noter que les pages ci-dessous sont en anglais.</p>
 
 <br>
 <table style="margin: auto;">
