@@ -22,9 +22,9 @@
 
 <h4 align="left">Human Knowledge Project:</h4>
 
-<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+<p align="left">Ich schreibe derzeit ein <ins>kostenloses</ins> Online-Lehrbuch mit dem Titel <strong>Human Knowledge Project</strong>, das dazu gedacht ist, Themen aus dem MINT-Bereich wie Physik, Mathematik und Kryptografie leichter zugänglich zu machen. Es soll sowohl für Anfänger als auch für Fortgeschrittene im MINT-Bereich eine nützliche Ressource sein – einerseits als durchgehendes Lehrbuch, andererseits als Nachschlagewerk, das man per Strg+F durchsuchen kann.</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">Ich habe das Projekt mit dem Ziel entworfen, Wissen in seiner praktischsten Form zu präsentieren: interessant, zugänglich, umfangreich und detailliert – all das, was schwierige Themen weniger furchteinflößend und leichter erreichbar macht. In naher Zukunft möchte ich die Website in mehrere Sprachen übersetzen (einschließlich der oben gezeigten), um die Inhalte noch zugänglicher zu machen; bitte beachten Sie, dass die untenstehenden Seiten auf Englisch sind.</p>
 
 <br>
 <table style="margin: auto;">
