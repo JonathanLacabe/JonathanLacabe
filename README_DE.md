@@ -1,9 +1,9 @@
 <div align="center" style="background-image: url('https://jonathanlacabe.github.io/_other/Iapetus_1985.jpg'); background-size: cover; background-position: center; padding: 20px;">
-  <h2>Hello! My name is Jonathan Lacabe...</h2>
+  <h2>Hallo! Mein Name ist Jonathan Lacabe...</h2>
   <p align="center">
-        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. One of my favorite photos of all time, it shows the sculpture 'Iapetus' by Jean-Max Albert embedded in nature. It is a piece of modern art that was designed to emulate the orbit of one of Saturn's moons. I have always thought of science as being a form of art, as a sort of creative expression under logical restraints imposed by the universe, so I chose this photo to represent the philosophy with which I work on all my projects, especially the HKP." width="402"/></a>
+        <a href="https://jonathanlacabe.github.io/"><img src="/Iapetus_1985.jpg" alt="Iapetus, 1985. Eines meiner Lieblingsfotos überhaupt: Es zeigt die Skulptur „Iapetus“ von Jean-Max Albert, eingebettet in die Natur. Dieses Werk der modernen Kunst wurde entworfen, um die Umlaufbahn eines der Saturnmonde nachzuahmen. Ich habe Wissenschaft immer als eine Form von Kunst betrachtet – als eine kreative Ausdrucksform unter den logischen Beschränkungen, die das Universum auferlegt. Deshalb habe ich dieses Foto ausgewählt, um die Philosophie darzustellen, mit der ich an all meinen Projekten arbeite, insbesondere am HKP." width="402"/></a>
     </p>
-  <h3>...and I am a High School Senior in Southern California who is studying/experimenting with advanced Cryptographic Systems (post-quantum & homomorphic) and Quantum Physics/Computing. I intend to make every project I work on <a href="https://openaccessmanifesto.wordpress.com/manifest-des-guerilla-open-access/">open-source and free</a>. </h3>
+  <h3>...und ich bin ein Oberstufenschüler in Südkalifornien, der sich mit fortgeschrittenen kryptografischen Systemen (post-quantum & homomorph) sowie mit Quantenphysik und Quantencomputing beschäftigt und experimentiert. Ich habe vor, jedes Projekt, an dem ich arbeite, <a href="https://openaccessmanifesto.wordpress.com/manifest-des-guerilla-open-access/">als Open-Source und kostenlos</a> zur Verfügung zu stellen.</h3>
     
 <p align="center">
   <a href="https://github.com/JonathanLacabe/JonathanLacabe/blob/main/README_CN.md"><span> 中文 </span></a>|
