@@ -22,11 +22,11 @@
 </p>
 <hr>
 
-<h4 align="left">Human Knowledge Project:</h4>
+<h4 align="left">휴먼 지식 프로젝트:</h4>
 
-<p align="left">I am currently writing a <ins>free</ins> online textbook called the <strong>Human Knowledge Project</strong>, meant to help make STEM topics like Physics, Mathematics, and Cryptography more accessible. I intend it to be a useful resource for both beginners and those more experienced in STEM, serving as both a straight-through textbook and as a ctrl-f reference tool.</p>
+<p align="left">저는 현재 <ins>무료</ins> 온라인 교재인 <strong>휴먼 지식 프로젝트</strong>를 집필 중이며, 물리학, 수학, 암호학과 같은 STEM 주제를 보다 쉽게 접근할 수 있도록 돕는 것을 목표로 합니다. 이 교재는 STEM 분야의 초보자부터 경험자 모두에게 유용한 자료로서, 처음부터 끝까지 읽을 수 있는 교재이자 Ctrl+F로 참조하기 좋은 도구가 될 것입니다.</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">저는 이 프로젝트를 지식을 가장 편리한 형태로 제공하는 것을 목표로 설계했습니다: 흥미롭고, 접근 가능하며, 광범위하고 상세한 내용들로 구성되어 있어 어려운 주제도 두렵고 접근하기 힘든 것이 아니도록 만들고자 했습니다. 앞으로 이 웹사이트를 위에 언급된 언어들을 포함한 여러 언어로 번역하여 더 많은 사람들이 이용할 수 있도록 할 계획이며, 아래 페이지들은 영어로 되어 있음을 참고해 주세요.</p>
 
 <br>
 <table style="margin: auto;">
