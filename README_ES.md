@@ -29,39 +29,39 @@
 
 <p align="left">Presentemente estoy escribiendo un libro de texto <ins>gratis</ins> por internet llamado el <strong>Proyecto del Conocimiento Humano</strong>, con la intención de ayudar a hacer materias como la física, matemáticas, y Criptografía que sean más accesibles. Mi propósito es que sea un recurso útil para ambos los principiantes y para los más experimentados en las ciencias, funcionando a la vez como un libro de texto y para busquedas especializadas (ctrl-f).</p>
 
-<p align="left">I designed the project with the goal of presenting knowledge in its most convenient form: Interesting, Accessible, Extensive and Detailed, all things that make learning harder subjects not seem like such a scary unapproachable thing. I intend to translate the website into multiple languages (including those seen above) in the near future to further accessibilize its content; note that the pages below are in English.</p>
+<p align="left">Diseñé el proyecto con el propósito de presentar conocimiento en su forma más conveniente, interesante, accesible, extensa y detallada. Eliminando todo lo que hace aprender más difícil y menos accesible. Mi intención es traducir es sitio web a múltiples idiomas (incluyendo los mencionados arriba) en el futuro cercano, para hacer que el contenido sea más accesible. Noten que las páginas siguientes están en inglés.</p>
 
 <br>
 <table style="margin: auto;">
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Physics</a></td>
-        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomy</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/Physics/physics.html">Fisica</a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/astronomy/astronomy.html">Astronomia</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Mathematics</a></td>
-        <td align="center">Aeronautic Engineering<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/math/mathematics.html">Matematica</a></td>
+        <td align="center">Ingegneria Aeronautica<a href="https://jonathanlacabe.github.io/engineering/aeronautics.html"></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Cryptography</a></td>
-        <td align="center">Nuclear Engineering<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
+        <td align="center"><a href="https://jonathanlacabe.github.io/cryptography/cryptography.html">Crittografia</a></td>
+        <td align="center">Ingegneria Nuclear<a href="https://jonathanlacabe.github.io/engineering/nuclear.html"></a></td>
     </tr>
     <tr>
-        <td align="center">Electrical Engineering<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
+        <td align="center">Ingeniería Eléctrica<a href="https://jonathanlacabe.github.io/engineering/electric.html"></a></td>
         <td align="center">~</td>
     </tr>
 </table>
     
 <hr>
-<h4 align="left">My Open Source Projects</h4>
-    <p align="left">Additionally, I have created several projects in computer science and electrical engineering:</p>
+<h4 align="left">Mis Proyectos de Fuente Abierta</h4>
+    <p align="left">Adicionalmente, he creado varios proyectos de informática, e ingeniería eléctrica:</p>
     <table align="center">
         <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Assorted Programming Projects</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Arduino Projects</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/Assorted-Programming-Projects">Varios Proyectos de Programación</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/Arduino-Projects">Proyectos de Arduino</a></td>
         </tr>
         <tr>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Chatsworth High School Robotics</a></td>
-            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Chatsworth Library Robotics</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Robotics">Robótica de la Secundaria Chatsworth</a></td>
+            <td align="center"><a href="https://github.com/JonathanLacabe/Chatsworth-Library-Robotics">Robótica de la Biblioteca de Chatsworth</a></td>
         </tr>
       <tr>
             <td align="center"><a href="https://github.com/JonathanLacabe/JonathanLacabe.github.io">Conocimiento Humano</a></td>
